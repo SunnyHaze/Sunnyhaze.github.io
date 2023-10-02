@@ -32,7 +32,8 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 <!-- - *2022.02*: &nbsp;🎉🎉 -->
 
 # 📖 Educations & Experiences
-- *2023.07 - (now)*, **Research Assistant**, Colledge of Computer Science, Sichuan University. Advised by [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm)
+- *2023.07 - (now)*, **Research Assistant**, Colledge of Computer Science, Sichuan University. Advised by Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm).
+- *2022.06 - 2022.08*, **Undergraduate Visiting Student**, National University of Singapore.
 - *2019.09 - 2023.06*, **B.E. in Computer Science**, Colledge of Computer Science, Sichuan University, Outstanding undergraduate thesis.
 
 # 📝 Publications 
