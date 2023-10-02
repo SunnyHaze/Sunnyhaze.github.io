@@ -67,6 +67,7 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 - *2023.06* Outstanding Undergraduate Thesis, Sichuan University.
 - *2022.10* National silver medal in “China software cup” College Student Software Design Competition.
 - *2022.02* MCM/ICM Honorable Prize.
+- *2021.10* Second-class Scholarship, Sichuan University
 - *2021.09* Provincial First-Class Price in Contemporary Undergraduate Mathematical Contest in Modeling.
 - *2020.10* Merit Student Award, Sichuan University
 
