@@ -24,7 +24,7 @@ Xiaochen Ma(马晓晨) is a Research Assistant at Sichuan University, advised by
 My research interest lies in Computer Vision, Image Segmentation, and Image Forensics, especially image manipulation localization. I also have some idea to develop a fundamental paradigm for image segmentation with large models.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=hGEIyCEAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
-(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=hGEIyCEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
+<!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=hGEIyCEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).  -->
 
 
 # 🔥 News
@@ -38,15 +38,13 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 # 📝 Publications 
 ## Accepted & Published
 
-- [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](http://arxiv.org/abs/2309.14900), Jizhe Zhou*, **Xiaochen Ma**, Xia Du, Ahmed Y. Alhammadi, Wentao Feng.**ICCV2023**
+- Jizhe Zhou*, **Xiaochen Ma**, Xia Du, Ahmed Y. Alhammadi, Wentao Feng. [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](http://arxiv.org/abs/2309.14900). **ICCV2023**.
 
-- [Enzymatic colorimetric method for turn-on determination of l-lactic acid through indicator displacement assay.](https://www.sciencedirect.com/science/article/pii/S1389172323001810), Zhaoqi Ran, Xiawen Wang, Ling Zhang, Yang Yang, Zhongtao Shang, Qinfei Chen, **Xiaochen Ma**, Zhuoqun Qian, Wenbin Liu. Journal of **Bioscience and Bioengineering**.
+- Zhaoqi Ran, Xiawen Wang, Ling Zhang, Yang Yang, Zhongtao Shang, Qinfei Chen, **Xiaochen Ma**, Zhuoqun Qian, Wenbin Liu. [Enzymatic colorimetric method for turn-on determination of l-lactic acid through indicator displacement assay.](https://www.sciencedirect.com/science/article/pii/S1389172323001810). **Journal of Bioscience and Bioengineering**.
 
 ## In Submission
-
-
-
-
+- **Xiaochen Ma**, Bo Du, Xianggen Liu, Ahmed Y. Al Hammadi, Jizhe Zhou*. [IML-ViT: Benchmarking Image Manipulation Localization by Vision Transformer.](https://arxiv.org/abs/2307.14863). **In Submission.**
+- **Xiaochen Ma**, Jizhe Zhou*, Xiong Xu, Zhuohang Jiang, Chi-Man Pun. Perceptual MAE for Image Manipulation Localization: A High-level Vision Learner Focusing on Low-level Features. In Submission.
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
