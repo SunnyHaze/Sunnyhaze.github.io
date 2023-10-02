@@ -43,9 +43,8 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 - Zhaoqi Ran, Xiawen Wang, Ling Zhang, Yang Yang, Zhongtao Shang, Qinfei Chen, **Xiaochen Ma**, Zhuoqun Qian, Wenbin Liu. [Enzymatic colorimetric method for turn-on determination of l-lactic acid through indicator displacement assay.](https://www.sciencedirect.com/science/article/pii/S1389172323001810). **Journal of Bioscience and Bioengineering**.
 
 ## In Submission
-- **Xiaochen Ma**, Bo Du, Xianggen Liu, Ahmed Y. Al Hammadi, Jizhe Zhou*. [IML-ViT: Benchmarking Image Manipulation Localization by Vision Transformer.](https://arxiv.org/abs/2307.14863). **In Submission.**
-- **Xiaochen Ma**, Jizhe Zhou*, Xiong Xu, Zhuohang Jiang, Chi-Man Pun. Perceptual MAE for Image Manipulation Localization: A High-level Vision Learner Focusing on Low-level Features. In Submission.
-
+- **Xiaochen Ma**, Bo Du, Xianggen Liu, Ahmed Y. Al Hammadi, Jizhe Zhou*. [IML-ViT: Benchmarking Image Manipulation Localization by Vision Transformer.](https://arxiv.org/abs/2307.14863). **In Submission**.
+- **Xiaochen Ma**, Jizhe Zhou*, Xiong Xu, Zhuohang Jiang, Chi-Man Pun. [Perceptual MAE for Image Manipulation Localization: A High-level Vision Learner Focusing on Low-level Features.](https://xiaochen.world/) **In Submission**.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -64,9 +63,11 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.06* Outstanding Undergraduate Thesis, Sichuan University.
+- *2022.10* National silver medal in “China software cup” College Student Software Design Competition.
+- *2022.02* MCM/ICM Honorable Prize.
+- *2021.09* Provincial First-Class Price in Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2020.10* Merit Student Award, Sichuan University
 
 
 <!-- # 💬 Invited Talks
