@@ -32,16 +32,20 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 <!-- - *2022.02*: &nbsp;🎉🎉 -->
 
 # 📖 Educations & Experiences
-- *2023.07 - (now)* Research Assistant, Colledge of Computer Science, Sichuan University. Advised by [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm)
-- *2019.09 - 2023.06*,  B.E. in Computer Science, Colledge of Computer Science, Sichuan University, Outstanding undergraduate thesis.
+- *2023.07 - (now)*, **Research Assistant**, Colledge of Computer Science, Sichuan University. Advised by [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm)
+- *2019.09 - 2023.06*, **B.E. in Computer Science**, Colledge of Computer Science, Sichuan University, Outstanding undergraduate thesis.
 
 # 📝 Publications 
-
 ## Accepted & Published
 
-[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](http://arxiv.org/abs/2309.14900), ICCV2023
+- [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](http://arxiv.org/abs/2309.14900), Jizhe Zhou*, **Xiaochen Ma**, Xia Du, Ahmed Y. Alhammadi, Wentao Feng,**ICCV2023**
 
-Jizhe Zhou*, **Xiaochen Ma**, Xia Du, Ahmed Y. Alhammadi, Wentao Feng
+[]
+
+## In Submission
+
+
+
 
 
 
