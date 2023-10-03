@@ -28,7 +28,7 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 On paper was accepted by ICCV2023.
+- *2023.08*: &nbsp;🎉🎉 One paper was accepted by ICCV2023.
 <!-- - *2022.02*: &nbsp;🎉🎉 -->
 
 # 📖 Educations & Experiences
