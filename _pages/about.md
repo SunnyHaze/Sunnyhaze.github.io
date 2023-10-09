@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaochen Ma(马晓晨) is a Research Assistant at Sichuan University, advised by Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm). Before that, He received his B.E. in Computer Science from the Colledge of Computer Science, Sichuan University, in 2023. 
+Xiaochen Ma (马晓晨) has been a full-time Research Assistant at Sichuan University since July 2023, under the guidance of Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm). Prior to this, he earned his B.E. in Computer Science from the College of Computer Science at Sichuan University in June 2023.
 
 My research interest lies in Computer Vision, Image Segmentation, and Image Forensics, especially image manipulation localization. I also have some idea to develop a fundamental paradigm for image segmentation with large models.
 
@@ -32,7 +32,7 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 <!-- - *2022.02*: &nbsp;🎉🎉 -->
 
 # 📖 Educations & Experiences
-- *2023.07 - (now)*, **Research Assistant**, Colledge of Computer Science, Sichuan University. Advised by Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm).
+- *2023.07 - (now)*, **Full-time Research Assistant**, Colledge of Computer Science, Sichuan University. Advised by Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm).
 - *2022.06 - 2022.08*, **Undergraduate Visiting Student**, National University of Singapore.
 - *2019.09 - 2023.06*, **B.E. in Computer Science**, Colledge of Computer Science, Sichuan University, Outstanding undergraduate thesis(Top 0.5%).
 
