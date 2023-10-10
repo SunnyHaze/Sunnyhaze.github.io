@@ -39,7 +39,7 @@ My research interest lies in Computer Vision, Image Segmentation, and Image Fore
 # 📝 Publications 
 ## Accepted & Published
 
-- Jizhe Zhou*, **Xiaochen Ma**, Xia Du, Ahmed Y. Alhammadi, Wentao Feng. [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html). **ICCV2023**.
+- ``ICCV 2023`` Jizhe Zhou*, **Xiaochen Ma**, Xia Du, Ahmed Y. Alhammadi, Wentao Feng. [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html). **ICCV2023**.
 
 - Zhaoqi Ran, Xiawen Wang, Ling Zhang, Yang Yang, Zhongtao Shang, Qinfei Chen, **Xiaochen Ma**, Zhuoqun Qian, Wenbin Liu. [Enzymatic colorimetric method for turn-on determination of l-lactic acid through indicator displacement assay.](https://www.sciencedirect.com/science/article/pii/S1389172323001810). **Journal of Bioscience and Bioengineering**.
 
